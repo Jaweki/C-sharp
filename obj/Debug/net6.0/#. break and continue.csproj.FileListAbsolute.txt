@@ -1,0 +1,15 @@
+C:\Users\JACK\Desktop\C#\#. break and continue\obj\Debug\net6.0\#. break and continue.csproj.AssemblyReference.cache
+C:\Users\JACK\Desktop\C#\#. break and continue\obj\Debug\net6.0\#. break and continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JACK\Desktop\C#\#. break and continue\obj\Debug\net6.0\#. break and continue.AssemblyInfoInputs.cache
+C:\Users\JACK\Desktop\C#\#. break and continue\obj\Debug\net6.0\#. break and continue.AssemblyInfo.cs
+C:\Users\JACK\Desktop\C#\#. break and continue\obj\Debug\net6.0\#. break and continue.csproj.CoreCompileInputs.cache
+C:\Users\JACK\Desktop\C#\#. break and continue\bin\Debug\net6.0\#. break and continue.exe
+C:\Users\JACK\Desktop\C#\#. break and continue\bin\Debug\net6.0\#. break and continue.deps.json
+C:\Users\JACK\Desktop\C#\#. break and continue\bin\Debug\net6.0\#. break and continue.runtimeconfig.json
+C:\Users\JACK\Desktop\C#\#. break and continue\bin\Debug\net6.0\#. break and continue.dll
+C:\Users\JACK\Desktop\C#\#. break and continue\bin\Debug\net6.0\#. break and continue.pdb
+C:\Users\JACK\Desktop\C#\#. break and continue\obj\Debug\net6.0\#. break and continue.dll
+C:\Users\JACK\Desktop\C#\#. break and continue\obj\Debug\net6.0\refint\#. break and continue.dll
+C:\Users\JACK\Desktop\C#\#. break and continue\obj\Debug\net6.0\#. break and continue.pdb
+C:\Users\JACK\Desktop\C#\#. break and continue\obj\Debug\net6.0\#. break and continue.genruntimeconfig.cache
+C:\Users\JACK\Desktop\C#\#. break and continue\obj\Debug\net6.0\ref\#. break and continue.dll
