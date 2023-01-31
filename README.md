@@ -17,6 +17,7 @@ The main topics covered are:
 - Classes in C#
 
 to run the bin file; i.e, the .exe file, navigate to the folder of choice, then: bin/Debug/net6.0/
+
 there you get the runnable .exe file.
 
 Happy coding!
