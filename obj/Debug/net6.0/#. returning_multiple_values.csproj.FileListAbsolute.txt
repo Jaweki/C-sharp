@@ -1,0 +1,15 @@
+C:\Users\JACK\Desktop\C#\#. returning_multiple_values\obj\Debug\net6.0\#. returning_multiple_values.csproj.AssemblyReference.cache
+C:\Users\JACK\Desktop\C#\#. returning_multiple_values\obj\Debug\net6.0\#. returning_multiple_values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JACK\Desktop\C#\#. returning_multiple_values\obj\Debug\net6.0\#. returning_multiple_values.AssemblyInfoInputs.cache
+C:\Users\JACK\Desktop\C#\#. returning_multiple_values\obj\Debug\net6.0\#. returning_multiple_values.AssemblyInfo.cs
+C:\Users\JACK\Desktop\C#\#. returning_multiple_values\obj\Debug\net6.0\#. returning_multiple_values.csproj.CoreCompileInputs.cache
+C:\Users\JACK\Desktop\C#\#. returning_multiple_values\bin\Debug\net6.0\#. returning_multiple_values.exe
+C:\Users\JACK\Desktop\C#\#. returning_multiple_values\bin\Debug\net6.0\#. returning_multiple_values.deps.json
+C:\Users\JACK\Desktop\C#\#. returning_multiple_values\bin\Debug\net6.0\#. returning_multiple_values.runtimeconfig.json
+C:\Users\JACK\Desktop\C#\#. returning_multiple_values\bin\Debug\net6.0\#. returning_multiple_values.dll
+C:\Users\JACK\Desktop\C#\#. returning_multiple_values\bin\Debug\net6.0\#. returning_multiple_values.pdb
+C:\Users\JACK\Desktop\C#\#. returning_multiple_values\obj\Debug\net6.0\#. returning_multiple_values.dll
+C:\Users\JACK\Desktop\C#\#. returning_multiple_values\obj\Debug\net6.0\refint\#. returning_multiple_values.dll
+C:\Users\JACK\Desktop\C#\#. returning_multiple_values\obj\Debug\net6.0\#. returning_multiple_values.pdb
+C:\Users\JACK\Desktop\C#\#. returning_multiple_values\obj\Debug\net6.0\#. returning_multiple_values.genruntimeconfig.cache
+C:\Users\JACK\Desktop\C#\#. returning_multiple_values\obj\Debug\net6.0\ref\#. returning_multiple_values.dll
