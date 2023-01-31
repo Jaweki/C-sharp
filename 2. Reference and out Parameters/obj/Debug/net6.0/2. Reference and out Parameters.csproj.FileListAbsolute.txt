@@ -1,0 +1,15 @@
+C:\Users\JACK\Desktop\C#\#. Functions\2. Reference and out Parameters\obj\Debug\net6.0\2. Reference and out Parameters.csproj.AssemblyReference.cache
+C:\Users\JACK\Desktop\C#\#. Functions\2. Reference and out Parameters\obj\Debug\net6.0\2. Reference and out Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JACK\Desktop\C#\#. Functions\2. Reference and out Parameters\obj\Debug\net6.0\2. Reference and out Parameters.AssemblyInfoInputs.cache
+C:\Users\JACK\Desktop\C#\#. Functions\2. Reference and out Parameters\obj\Debug\net6.0\2. Reference and out Parameters.AssemblyInfo.cs
+C:\Users\JACK\Desktop\C#\#. Functions\2. Reference and out Parameters\obj\Debug\net6.0\2. Reference and out Parameters.csproj.CoreCompileInputs.cache
+C:\Users\JACK\Desktop\C#\#. Functions\2. Reference and out Parameters\bin\Debug\net6.0\2. Reference and out Parameters.exe
+C:\Users\JACK\Desktop\C#\#. Functions\2. Reference and out Parameters\bin\Debug\net6.0\2. Reference and out Parameters.deps.json
+C:\Users\JACK\Desktop\C#\#. Functions\2. Reference and out Parameters\bin\Debug\net6.0\2. Reference and out Parameters.runtimeconfig.json
+C:\Users\JACK\Desktop\C#\#. Functions\2. Reference and out Parameters\bin\Debug\net6.0\2. Reference and out Parameters.dll
+C:\Users\JACK\Desktop\C#\#. Functions\2. Reference and out Parameters\bin\Debug\net6.0\2. Reference and out Parameters.pdb
+C:\Users\JACK\Desktop\C#\#. Functions\2. Reference and out Parameters\obj\Debug\net6.0\2. Reference and out Parameters.dll
+C:\Users\JACK\Desktop\C#\#. Functions\2. Reference and out Parameters\obj\Debug\net6.0\refint\2. Reference and out Parameters.dll
+C:\Users\JACK\Desktop\C#\#. Functions\2. Reference and out Parameters\obj\Debug\net6.0\2. Reference and out Parameters.pdb
+C:\Users\JACK\Desktop\C#\#. Functions\2. Reference and out Parameters\obj\Debug\net6.0\2. Reference and out Parameters.genruntimeconfig.cache
+C:\Users\JACK\Desktop\C#\#. Functions\2. Reference and out Parameters\obj\Debug\net6.0\ref\2. Reference and out Parameters.dll
